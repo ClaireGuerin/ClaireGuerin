@@ -13,15 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Codes in
-
-<img src="logos/python.jpeg" width="20" height="20"> <img src="logos/r.jpeg" width="20" height="20"> <img src="logos/c++.png" width="20" height="20"> <img src="logos/mathematica.png" width="20" height="20"> <img src="logos/matlab.jpeg" width="20" height="20"> <img src="logos/latex.png" width="20" height="20">
-
-### Speaks 
-(by order of fluency)
-
-🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇰🇷
-
-### Uses
-
-<img src="logos/travis.png" width="20" height="20"> <img src="logos/codecov.jpeg" width="20" height="20">
+| Codes in | Speaks | Uses |
+|:--------:|:------:|:----:|
+| <img src="logos/python.jpeg" width="20" height="20"> <img src="logos/r.jpeg" width="20" height="20"> <img src="logos/c++.png" width="20" height="20"> <img src="logos/mathematica.png" width="20" height="20"> <img src="logos/matlab.jpeg" width="20" height="20"> <img src="logos/latex.png" width="20" height="20"> | 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇰🇷 | <img src="logos/travis.png" width="20" height="20"> <img src="logos/codecov.jpeg" width="20" height="20"> |
