@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Programming with
+### Programs with
 
 
 
-### Speaking in (by order of fluency)
+### Speaks 
+(by order of fluency)
 
 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇰🇷
 
-### Using
+### Uses
 
