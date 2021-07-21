@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 | Codes in | Speaks | Uses |
 |:--------:|:------:|:----:|
-| <img src="logos/python.jpeg" height="20"> <img src="logos/r.jpeg" width="20" height="20"> <img src="logos/c++.png" width="20" height="20"> <img src="logos/mathematica.png" width="20" height="20"> <img src="logos/matlab.jpeg" width="20" height="20"> <img src="logos/latex.png" width="20" height="20"> | 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇰🇷 | <img src="logos/travis.png" width="20" height="20"> <img src="logos/codecov.jpeg" width="20" height="20"> |
+| <img src="logos/python.jpeg" height="20"> <img src="logos/r.jpeg" height="20"> <img src="logos/c++.png" height="20"> <img src="logos/mathematica.png" height="20"> <img src="logos/matlab.jpeg" height="20"> <img src="logos/latex.png" height="20"> | 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇰🇷 | <img src="logos/travis.png" height="20"> <img src="logos/codecov.jpeg" height="20"> |
